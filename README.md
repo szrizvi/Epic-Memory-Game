@@ -38,7 +38,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 Winning:
 
-![](https://i.imgur.com/iVmGqck.gif)
+![](https://i.imgur.com/Hp4hC9q.gif)
 Winning with different secret pattern:
 
 ![](https://i.imgur.com/oLelmaq.gif)
@@ -74,7 +74,7 @@ One thing I would love to delve deeper into is how much I can alter the design o
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/8c21c219b43b40469429561b1641ff41)
 
 ## License
 
