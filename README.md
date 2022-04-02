@@ -37,10 +37,13 @@ The following **optional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Winning:
+
 ![](https://i.imgur.com/iVmGqck.gif)
 Winning with different secret pattern:
-![](https://i.imgur.com/uhdTzTL.gif)
+
+![](https://i.imgur.com/oLelmaq.gif)
 Losing after 3 mistakes:
+
 ![](https://i.imgur.com/ygyvOdj.gif)
 
 ## Reflection Questions
