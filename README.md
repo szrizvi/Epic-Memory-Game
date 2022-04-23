@@ -39,9 +39,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 Winning:
 
 ![](https://i.imgur.com/Hp4hC9q.gif)
+
 Winning with different secret pattern:
 
 ![](https://i.imgur.com/oLelmaq.gif)
+
 Losing after 3 mistakes:
 
 ![](https://i.imgur.com/ygyvOdj.gif)
