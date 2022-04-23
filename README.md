@@ -74,7 +74,7 @@ One thing I would love to delve deeper into is how much I can alter the design o
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://www.loom.com/share/8c21c219b43b40469429561b1641ff41)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1J_28cfSgI0Srn0qFSDbQiQ2SYfC68knv/view?usp=sharing)
 
 ## License
 
