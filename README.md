@@ -2,20 +2,19 @@
 
 **Epic Memory Game** is a Light & Sound Memory game
 
-Link to project: https://glitch.com/edit/#!/charming-voltaic-seashore
+Play [here](https://charming-voltaic-seashore.glitch.me/)
 
 ## Functionality
-"Start" button toggles between "Start" and "Stop" when clicked.
-Game buttons each light up and play a sound when clicked.
-Computer plays back sequence of clues including sound and visual cue for each button
-Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess.
-User wins the game after guessing a complete pattern
-User loses the game after an incorrect guess
-Playback speeds up on each turn
-Computer picks a different pattern each time the game is played
-Player only loses after 3 mistakes
+- "Start" button toggles between "Start" and "Stop" when clicked.
+- Game buttons each light up and play a sound when clicked.
+- Computer plays back sequence of clues including sound and visual cue for each button
+- Play progresses to the next turn (the player gets the next step in the pattern) after a correct guess.
+- Player wins the game after guessing a complete pattern
+- Player only loses after 3 mistakes
+- Playback speeds up on each turn
+- A different pattern is picked each time the game is played
 
-## Video Walkthrough
+## Demo
 
 
 Winning:
